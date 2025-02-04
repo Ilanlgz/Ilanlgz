@@ -8,7 +8,7 @@ Je suis un développeur passionné avec une expertise dans plusieurs langages de
 
 ## 🛠️ Compétences
 - **Langages de programmation** : HTML/CSS, JavaScript, C, PHP/SQL
-- **Développement Web** : HTML, CSS
+- **Développement Web** : HTML, CSS, Wordpress
 - **Bases de données** : MySQL
 - **Outils** : Git
 
@@ -20,7 +20,7 @@ Je suis un développeur passionné avec une expertise dans plusieurs langages de
 - Portfolio : [Votre Portfolio](https://www.votreportfolio.com)
 
 ## ⚡ Fun fact
-Je suis un grand amateur de [vos hobbies ou intérêts] et j'adore apprendre de nouvelles technologies et relever des défis !
+Je suis un grand amateur de Basketball et j'adore apprendre de nouvelles technologies et relever des défis !
 
 ---
 
