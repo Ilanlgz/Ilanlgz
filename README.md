@@ -15,9 +15,9 @@ Je suis un développeur passionné avec une expertise dans plusieurs langages de
 ## 🔭 Projets récents
 
 ## 📫 Comment me contacter
-- LinkedIn : [[Votre LinkedIn](https://www.linkedin.com/in/username/](https://www.linkedin.com/in/ilan-langelez-19198732a/))
+- LinkedIn : [(https://www.linkedin.com/in/ilan-langelez-19198732a/)]
 - Email : ilan.langelez@coda-student.school
-- Portfolio : [Votre Portfolio](https://www.votreportfolio.com)
+- Portfolio : [(https://www.votreportfolio.com)]
 
 ## ⚡ Fun fact
 Je suis un grand amateur de Basketball et j'adore apprendre de nouvelles technologies et relever des défis !
