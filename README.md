@@ -2,7 +2,7 @@
 
 # Bonjour, je suis Ilan. 👋
 
-![Header](https://media.licdn.com/dms/image/v2/D4D03AQE-bmmsQH3LJg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727771491678?e=1744243200&v=beta&t=OJqovpBGT2-FOWKTaxjxNsdR3OdhKP2ERdd48rnVk4U)
+![Header]()
 
 Je suis un développeur passionné avec une expertise dans plusieurs langages de programmation et technologies. Je suis constamment en train d'apprendre et de m'améliorer, et j'adore travailler sur des projets innovants. 🚀
 
